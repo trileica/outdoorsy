@@ -13,5 +13,3 @@ For running Part 2 (modeling part) local, please
 `pip install requirements.txt`
 
 2. start the notebook **Bikeshare.ipynb** for exploratory data analysis and modelling walkthrough
-
-If one wants to feed an input and get the predictions from saved model, 
